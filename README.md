@@ -13,6 +13,6 @@ Projeto acadêmico de banco de dados relacional em **SQL para MySQL**. O modelo 
 2. Revise o arquivo e execute os blocos de criação na ordem em que aparecem. Pule o comando `DROP DATABASE`, que exclui a base.
 3. Para testar os blocos de inserção e consulta, substitua os valores de cadastro por dados fictícios antes de executar.
 
-## Apresentação
+## Vídeo Apresentação
 
 [Vídeo do projeto no LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7362498906812772352/)
