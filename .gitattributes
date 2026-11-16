@@ -1,2 +1,1 @@
-*.sql linguist-language=SQL linguist-detectable=true
-/index.html linguist-documentation=true linguist-detectable=false
+*.sql linguist-language=SQL linguist-detectable
